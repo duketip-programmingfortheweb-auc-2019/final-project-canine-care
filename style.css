@@ -370,6 +370,7 @@ div.card {
 .staff {
   background-color: #311847;
   padding-bottom: 1rem;
+
 }
 .location{
   background-color: gray;
@@ -506,4 +507,19 @@ body#newlocation{
 }
 .card{
   height: 1000px;
+}
+.productcenter{
+  margin-bottom: 10px;
+  
+}
+
+.card-img-top{
+  height: auto;
+  max-height: 50%;
+}
+
+.card-body{
+  height: auto;
+  max-height: 50%;
+  padding-top: auto;
 }
